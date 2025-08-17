@@ -8,9 +8,10 @@ I build scalable web apps, secure smart contracts, and innovative crypto solutio
 ## 🌟 About Me  
 
 - 💻 **Full-Stack Developer** – Crafting modern, high-performance apps with **Next.js, Laravel, and Node.js**  
-- ![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=white) **Blockchain Enthusiast** – Skilled in **Solidity, Web3.js, Solana**, building DeFi & NFT solutions  
+- <img src="https://cryptologos.cc/logos/solana-sol-logo.svg" width="18" /> **Blockchain Enthusiast** – Skilled in **Solidity, Web3.js, Solana**, building DeFi & NFT solutions  
 - 🎮 **Gamer at Heart** – Competitive **FPS & strategy games** fuel my creativity  
 - ⚡ **Builder’s Mindset** – Always experimenting, shipping side projects, and exploring emerging tech  
+
 
 
 ## 🛠️ Tech Stack  
