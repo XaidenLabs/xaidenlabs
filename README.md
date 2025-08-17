@@ -13,8 +13,6 @@
 
 </div>
 
----
-
 ## 🌟 About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -28,7 +26,6 @@
 - 📚 Currently diving deep into **Rust** and **Advanced Solana Development**
 - 🎮 Fun fact: I believe gaming strategy directly improves coding problem-solving skills!
 
----
 
 ## 🛠️ Tech Stack
 
@@ -60,8 +57,6 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -73,14 +68,12 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XaidenLabs&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=9333ea&text_color=e5e7eb" alt="Top languages" />
 </div>
 
----
 
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=XaidenLabs&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
----
 
 
 ## 🌐 Connect With Me
@@ -94,11 +87,9 @@
 
 </div>
 
----
 
 <div align="center">
   
-### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
