@@ -5,7 +5,7 @@
 
 ## 🌟 About Me  
   - 💻 **Full-Stack Developer** – Crafting modern, high-performance apps with **Next.js, Laravel, and Node.js**  
-  - <img src="https://cryptologos.cc/logos/solana-sol-logo.svg" width="18" /> **Blockchain Enthusiast** – Skilled in **Solidity, Web3.js, Solana**, building DeFi & NFT solutions  
+  - <img src="https://cryptologos.cc/logos/solana-sol-logo.svg" width="18" /> **Blockchain Enthusiast** Skilled in **Solidity, Web3.js, Solana**, building DeFi & NFT solutions  
   - 🎮 **Gamer at Heart** – Competitive **FPS & strategy games** fuel my creativity  
   - ⚡ **Builder’s Mindset** – Always experimenting, shipping side projects, and exploring emerging tech  
 
