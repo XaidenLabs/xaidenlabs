@@ -100,13 +100,6 @@
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://github.com/XaidenLabs/XaidenLabs/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
 
 ## 🌐 Connect With Me
 
@@ -126,12 +119,6 @@
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🎵 Spotify Playing
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://spotify-github-profile.vercel.app/api/spotify-playing)
-
-</div>
-
----
 
 <div align="center">
   
