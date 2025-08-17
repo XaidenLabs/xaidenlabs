@@ -3,8 +3,6 @@
 
 I build scalable web apps, secure smart contracts, and innovative crypto solutions — while leveling up in code and gaming. Passionate about pushing boundaries in **tech and blockchain**.  
 
----
-
 ## 🌟 About Me  
 
 - 💻 **Full-Stack Developer** – Crafting modern, high-performance apps with **Next.js, Laravel, and Node.js**  
