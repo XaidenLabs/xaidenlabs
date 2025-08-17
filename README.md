@@ -7,40 +7,17 @@ I build scalable web apps, secure smart contracts, and innovative crypto solutio
 
 ## 🌟 About Me  
 
-| 💻 Full-Stack Developer | ₿ Crypto & Blockchain Enthusiast | 🎮 Gamer at Heart | ⚡ Builder’s Mindset |
-|-------------------------|----------------------------------|------------------|----------------------|
-| Crafting modern, high-performance apps with **Next.js, Laravel, Node.js** | Skilled in **Solidity, Web3.js, Solana**, building DeFi & NFT solutions | Competitive **FPS & strategy games** fuel my creativity | Always experimenting, shipping side projects, and exploring emerging tech |
+- 💻 **Full-Stack Developer** – Crafting modern, high-performance apps with **Next.js, Laravel, and Node.js**  
+- ![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=white) **Blockchain Enthusiast** – Skilled in **Solidity, Web3.js, Solana**, building DeFi & NFT solutions  
+- 🎮 **Gamer at Heart** – Competitive **FPS & strategy games** fuel my creativity  
+- ⚡ **Builder’s Mindset** – Always experimenting, shipping side projects, and exploring emerging tech  
 
----
 
 ## 🛠️ Tech Stack  
 
 | **Frontend** | **Backend** | **Blockchain / Crypto** | **DevOps & Tools** |
 |--------------|-------------|--------------------------|---------------------|
 | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)<br>![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)<br>![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)<br>![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)<br>![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express) | ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)<br>![Web3.js](https://img.shields.io/badge/Web3.js-F16822?logo=web3.js&logoColor=white)<br>![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)<br>![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)<br>![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) |
-
----
-
-## 🎮 Gaming Vibes  
-
-🕹️ **Gaming = Creativity + Strategy**  
-I believe **coding and gaming share the same DNA**: problem-solving, strategy, and constant growth.  
-
-| 🎯 Valorant | ⚔️ Elden Ring | 🌌 Starfield |
-|-------------|--------------|--------------|
-| Precision & tactics | Epic exploration & challenge | Immersive storytelling in the stars |
-
----
-
-## 🗂️ Featured Projects  
-
-| 🚀 scrapeflow-SaaS | 📘 altre_academicpulse | 🎨 NFT-MMINTER |
-|-------------------|-----------------------|----------------|
-| Workflow automation SaaS with web scraping (Next.js + TS) | TypeScript-based academic solution system | NFT minting tool from Kwara State Bootcamp |
-
-| 🏙️ punk-city | 🖼️ XAIDEN-NFT | 🎟️ evently |
-|---------------|----------------|--------------|
-| TON-blockchain game built in Ruby | Voting dApp on Solana (TypeScript) | Event management solution (TypeScript) |
 
 ---
 
