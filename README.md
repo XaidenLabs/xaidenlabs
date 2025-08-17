@@ -82,24 +82,6 @@
 
 ---
 
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XaidenLabs&repo=solana-dapp&theme=radical&hide_border=true&bg_color=0d1117&title_color=9333ea&text_color=e5e7eb&icon_color=3b82f6)](https://github.com/XaidenLabs/solana-dapp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XaidenLabs&repo=defi-protocol&theme=radical&hide_border=true&bg_color=0d1117&title_color=9333ea&text_color=e5e7eb&icon_color=3b82f6)](https://github.com/XaidenLabs/defi-protocol)
-
-</div>
-
----
-
 
 ## 🌐 Connect With Me
 
