@@ -24,7 +24,8 @@
 |---|---|---|
 
 
-## 🌐 Let’s Connect  
+
+<h1>## 🌐 Let’s Connect  </h1>
 
 <p align="center">
   <a href="https://twitter.com/xaidenlabs" target="_blank">
