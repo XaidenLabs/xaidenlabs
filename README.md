@@ -26,8 +26,19 @@
 
 ## 🌐 Let’s Connect  
 
-| [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/xaidenlabs) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alfred-gabriel-5529a926a) | [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://xaidenlabs.com.ng) |
-|---|---|---|
+<p align="center">
+  <a href="https://twitter.com/xaidenlabs" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/alfred-gabriel-5529a926a" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://xaidenlabs.com.ng" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Portfolio" width="40" height="40"/>
+  </a>
+</p>
 
 
 💡 *“Code is my craft, blockchain is my battlefield, and gaming is my grind.”*  
