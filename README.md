@@ -17,32 +17,16 @@
 
 ## `whoami`
 
-<table>
-  <tr>
-    <td width="31%" align="center" valign="middle">
-      <img src="./public/alfred-gabriel.jpeg" width="260" alt="Alfred Gabriel" />
-      <br /><br />
-      <b>Alfred Gabriel</b><br />
-      <sub>Founder, Xaiden Labs · @XaidenLabs</sub>
-    </td>
-    <td width="69%" valign="top">
-      <pre>
+```console
 alfred@xaidenlabs:~$ ./introduce --professional
 
-ROLE        Full-Stack & Backend Engineer
-SPECIALTY   APIs · Distributed Workflows · Web3
-WEB         Next.js · React · Tailwind CSS
-BACKEND     Node.js · NestJS · Laravel · Express
-DATA        PostgreSQL · MongoDB · Redis
-ON-CHAIN    Solana · Anchor · Rust · SPL Tokens
-DELIVERY    Docker · CI/CD · Vercel · Linux
+ROLE        Full-Stack & Backend Engineer       SPECIALTY   APIs · Distributed Workflows · Web3
+WEB         Next.js · React · Tailwind CSS      BACKEND     Node.js · NestJS · Laravel · Express
+DATA        PostgreSQL · MongoDB · Redis        ON-CHAIN    Solana · Anchor · Rust · SPL Tokens
+DELIVERY    Docker · CI/CD · Vercel · Linux     STATUS      Shipping in public ██████████████ 100%
 
 MISSION     Build useful products. Engineer them to last.
-STATUS      Shipping in public ██████████████ 100%
-      </pre>
-    </td>
-  </tr>
-</table>
+```
 
 ## Proof of work
 
