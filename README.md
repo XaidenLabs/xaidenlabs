@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./public/xaiden-hero.svg" width="100%" alt="Alfred Gabriel — Full-Stack Engineer and Solana Builder" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20,24&text=ALFRED%20GABRIEL&fontColor=F8FAFC&fontSize=62&fontAlignY=38&desc=BACKEND%20ENGINEER%20%E2%80%A2%20FULL-STACK%20BUILDER%20%E2%80%A2%20SOLANA%20DEVELOPER&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Alfred Gabriel — Backend Engineer, Full-Stack Builder and Solana Developer" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=A855F7&center=true&vCenter=true&random=false&width=850&lines=I+build+production-ready+backend+systems.;I+turn+complex+ideas+into+shippable+products.;I+write+Solana+programs+and+full-stack+applications.;Currently+building+from+Nigeria+to+the+world." alt="Animated developer introduction" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=900&lines=I+own+backend+products+from+architecture+to+deployment.;4%2B+years+building+APIs%2C+platforms%2C+and+Web3+systems.;Available+for+remote+backend%2C+contract%2C+and+product+roles.;Let%27s+turn+your+hardest+idea+into+working+software." alt="What Alfred Gabriel brings to engineering teams" /></a>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit-9333EA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xaidenlabs.com.ng)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alfred-gabriel-5529a926a)
@@ -15,18 +15,37 @@
 
 </div>
 
-## `whoami`
+## Why engineering teams hire me
 
-```console
-alfred@xaidenlabs:~$ ./introduce --professional
+> I am a backend-focused product engineer with **4+ years of hands-on experience** building APIs, full-stack platforms, mobile products, and Solana applications. I can take a feature from an unclear product requirement to architecture, implementation, deployment, and iteration—and communicate the trade-offs along the way.
 
-ROLE        Full-Stack & Backend Engineer       SPECIALTY   APIs · Distributed Workflows · Web3
-WEB         Next.js · React · Tailwind CSS      BACKEND     Node.js · NestJS · Laravel · Express
-DATA        PostgreSQL · MongoDB · Redis        ON-CHAIN    Solana · Anchor · Rust · SPL Tokens
-DELIVERY    Docker · CI/CD · Vercel · Linux     STATUS      Shipping in public ██████████████ 100%
+<table>
+  <tr>
+    <td width="25%" align="center"><b>4+ years</b><br/><sub>Hands-on engineering</sub></td>
+    <td width="25%" align="center"><b>End-to-end ownership</b><br/><sub>Design through deployment</sub></td>
+    <td width="25%" align="center"><b>Backend-first</b><br/><sub>APIs, data and reliability</sub></td>
+    <td width="25%" align="center"><b>Remote-ready</b><br/><sub>Nigeria · WAT (UTC+1)</sub></td>
+  </tr>
+</table>
 
-MISSION     Build useful products. Engineer them to last.
-```
+### Recruiter snapshot
+
+| | |
+| --- | --- |
+| **Best fit** | Backend Engineer · Full-Stack Engineer · Blockchain/Solana Engineer |
+| **Engagements** | Remote employment · Contract · Freelance · Product collaboration |
+| **Backend strength** | Node.js · TypeScript · NestJS · Laravel · Express · REST APIs |
+| **Data and infrastructure** | PostgreSQL · MongoDB · Redis · Docker · Linux · CI/CD |
+| **Product range** | Next.js · React · React Native · Payments · Authentication · Web3 |
+| **What I bring** | Product thinking, clear communication, system ownership, practical delivery |
+
+<div align="center">
+
+[![Review my work](https://img.shields.io/badge/REVIEW_MY_WORK-Portfolio-9333EA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xaidenlabs.com.ng)
+[![Discuss a role](https://img.shields.io/badge/DISCUSS_A_ROLE-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alfred-gabriel-5529a926a)
+[![Email me](https://img.shields.io/badge/EMAIL_ME-Available_now-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@xaidenlabs.com.ng)
+
+</div>
 
 ## Proof of work
 
@@ -107,18 +126,8 @@ const engineering = {
 
 <div align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XaidenLabs&theme=github_dark" alt="GitHub contribution profile" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=XaidenLabs&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=22d3ee&text_color=cbd5e1&rank_icon=github" alt="Alfred Gabriel's GitHub statistics" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=XaidenLabs&hide_border=true&background=0D1117&ring=A855F7&fire=22D3EE&currStreakLabel=A855F7&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub contribution streak" />
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=XaidenLabs&bg_color=0d1117&color=a855f7&line=22d3ee&point=f8fafc&area=true&hide_border=true" alt="GitHub activity graph" />
 </div>
-
-### Contribution stream
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XaidenLabs/XaidenLabs/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XaidenLabs/XaidenLabs/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/XaidenLabs/XaidenLabs/output/github-contribution-grid-snake.svg" />
-</picture>
 
 <details>
   <summary><b>More repository intelligence</b></summary>
