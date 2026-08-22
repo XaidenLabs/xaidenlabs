@@ -1,115 +1,169 @@
 <div align="center">
 
-# Alfred Gabriel
+<img src="./public/xaiden-hero.svg" width="100%" alt="Alfred Gabriel — Full-Stack Engineer and Solana Builder" />
 
-### Full-Stack Engineer · Backend Specialist · Solana Builder
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=A855F7&center=true&vCenter=true&random=false&width=850&lines=I+build+production-ready+backend+systems.;I+turn+complex+ideas+into+shippable+products.;I+write+Solana+programs+and+full-stack+applications.;Currently+building+from+Nigeria+to+the+world." alt="Animated developer introduction" /></a>
 
-I design and ship reliable web, mobile, and blockchain products from Nigeria to the world.
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit-9333EA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xaidenlabs.com.ng)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alfred-gabriel-5529a926a)
+[![X](https://img.shields.io/badge/X-@xaidenlabs-111111?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/xaidenlabs)
+[![Email](https://img.shields.io/badge/EMAIL-Let's_build-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@xaidenlabs.com.ng)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xaidenlabs.com.ng)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alfred-gabriel-5529a926a)
-[![X](https://img.shields.io/badge/@xaidenlabs-111111?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/xaidenlabs)
-[![Email](https://img.shields.io/badge/Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@xaidenlabs.com.ng)
+![Available](https://img.shields.io/badge/STATUS-OPEN_TO_BACKEND_%26_PRODUCT_WORK-22C55E?style=flat-square)
+![Location](https://img.shields.io/badge/BASE-NIGERIA_·_REMOTE-0EA5E9?style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=XaidenLabs&style=flat-square&color=9333EA&label=PROFILE+VIEWS)
 
 </div>
 
+## `whoami`
+
 <table>
   <tr>
-    <td width="34%" align="center" valign="middle">
-      <img src="./assets/alfred-gabriel.jpeg" width="280" alt="Alfred Gabriel" />
-      <br />
-      <sub><b>Alfred Gabriel</b> · @XaidenLabs</sub>
+    <td width="31%" align="center" valign="middle">
+      <img src="./public/alfred-gabriel.jpeg" width="260" alt="Alfred Gabriel" />
+      <br /><br />
+      <b>Alfred Gabriel</b><br />
+      <sub>Founder, Xaiden Labs · @XaidenLabs</sub>
     </td>
-    <td width="66%" valign="top">
+    <td width="69%" valign="top">
       <pre>
-alfred@xaidenlabs
-────────────────────────────────────────
-Role      Full-Stack & Backend Engineer
-Focus     APIs · Web Apps · Mobile · Web3
-Location  Nigeria · Remote-ready
-Building  Products that solve real problems
+alfred@xaidenlabs:~$ ./introduce --professional
 
-Core      TypeScript · Node.js · Laravel
-Web       Next.js · React · Tailwind CSS
-Backend   NestJS · Express · REST · GraphQL
-Data      MongoDB · PostgreSQL · Redis
-Web3      Solana · Anchor · Rust · Solidity
-Tools     Docker · GitHub Actions · Vercel
+ROLE        Full-Stack & Backend Engineer
+SPECIALTY   APIs · Distributed Workflows · Web3
+WEB         Next.js · React · Tailwind CSS
+BACKEND     Node.js · NestJS · Laravel · Express
+DATA        PostgreSQL · MongoDB · Redis
+ON-CHAIN    Solana · Anchor · Rust · SPL Tokens
+DELIVERY    Docker · CI/CD · Vercel · Linux
 
-Status    Shipping, learning, improving.
+MISSION     Build useful products. Engineer them to last.
+STATUS      Shipping in public ██████████████ 100%
       </pre>
     </td>
   </tr>
 </table>
 
-## What I build
+## Proof of work
 
-- **Backend systems** — secure APIs, authentication, payments, queues, caching, file pipelines, and integrations.
-- **Full-stack products** — responsive web applications with clean interfaces and maintainable architecture.
-- **Mobile experiences** — cross-platform applications built with React Native.
-- **Solana products** — on-chain programs, token utilities, wallet flows, and escrow-based applications.
-
-## Selected work
-
-| Project | What it does | Built with |
-| --- | --- | --- |
-| **Africa Research Base** | A command centre for African research, data, collaboration, and funding. | Next.js, TypeScript, Solana, Supabase |
-| **Worksafe** | A trust-minimised freelance escrow experience powered by Solana programs. | Rust, Anchor, SPL Tokens, Next.js |
-| **Xaiden Labs** | My product studio for practical web, mobile, AI-assisted, and blockchain solutions. | Node.js, Laravel, React, React Native |
-
-> I care about products that work in the real world: clear user flows, dependable backends, secure transactions, and code that can grow with the idea.
-
-## Toolbox
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>◈ Africa Research Base</h3>
+      <p><b>Research · Data · Funding</b></p>
+      <p>A product ecosystem designed to help African researchers discover data, collaborate, access funding, and participate in token-powered research incentives.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Solana</code> <code>Supabase</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>◎ Worksafe</h3>
+      <p><b>Trust-minimised Escrow</b></p>
+      <p>A freelance transaction layer with PDA-based escrow, SPL-token settlement, release and refund paths, disputes, fees, and admin resolution.</p>
+      <p><code>Rust</code> <code>Anchor</code> <code>SPL</code> <code>Next.js</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⌁ Xaiden Labs</h3>
+      <p><b>Product Engineering Studio</b></p>
+      <p>Practical web, mobile, backend, AI-assisted, and blockchain products built around real operational problems and scalable foundations.</p>
+      <p><code>Node.js</code> <code>Laravel</code> <code>React</code> <code>Mobile</code></p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0B1120?style=flat-square&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-0B1120?style=flat-square&logo=nodedotjs)
-![NestJS](https://img.shields.io/badge/NestJS-0B1120?style=flat-square&logo=nestjs&logoColor=E0234E)
-![Laravel](https://img.shields.io/badge/Laravel-0B1120?style=flat-square&logo=laravel)
-![Next.js](https://img.shields.io/badge/Next.js-0B1120?style=flat-square&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-0B1120?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-0B1120?style=flat-square&logo=react)
-![MongoDB](https://img.shields.io/badge/MongoDB-0B1120?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1120?style=flat-square&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-0B1120?style=flat-square&logo=redis)
-![Solana](https://img.shields.io/badge/Solana-0B1120?style=flat-square&logo=solana)
-![Rust](https://img.shields.io/badge/Rust-0B1120?style=flat-square&logo=rust)
-![Docker](https://img.shields.io/badge/Docker-0B1120?style=flat-square&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-0B1120?style=flat-square&logo=vercel)
+[**Explore the portfolio →**](https://xaidenlabs.com.ng) &nbsp;&nbsp; [**Inspect the repositories →**](https://github.com/XaidenLabs?tab=repositories)
 
 </div>
 
-## Right now
+## Engineering depth
 
-```ts
-const alfred = {
-  learning: ["Advanced Solana", "Rust", "AI agent engineering"],
-  building: ["developer tools", "fintech infrastructure", "African-first products"],
-  openTo: ["backend roles", "contract work", "product collaborations"],
-  principle: "Ship useful things, then make them better.",
-};
+```mermaid
+flowchart LR
+    UI["Web / Mobile Client"] --> API["Typed API Layer"]
+    API --> CORE["Domain Services"]
+    CORE --> DATA["Postgres · MongoDB · Redis"]
+    CORE --> CHAIN["Solana Programs"]
+    CORE --> JOBS["Queues · Events · Integrations"]
 ```
 
-## GitHub activity
+| I build | What that means in practice |
+| --- | --- |
+| **Backend platforms** | Versioned APIs, authentication, authorization, validation, payments, queues, caching, uploads, observability, and integrations. |
+| **Full-stack products** | Accessible interfaces connected to maintainable domain logic—not disconnected screens and endpoints. |
+| **On-chain systems** | Program-derived accounts, token transfers, escrow state machines, wallet flows, and explicit security constraints. |
+| **Delivery pipelines** | Repeatable environments, automated checks, containerized services, deployment workflows, and clean handover documentation. |
+
+## Technology radar
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=XaidenLabs&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=22d3ee&text_color=cbd5e1&rank_icon=github" alt="Alfred Gabriel's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XaidenLabs&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=cbd5e1&langs_count=8" alt="Most used languages" />
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,laravel,nextjs,react,tailwind,postgres,mongodb,redis,rust,solidity,docker,githubactions,vercel,linux&perline=8" alt="Alfred's core technology stack" />
+
+<br /><br />
+
+**Core:** TypeScript · Node.js · Laravel · Next.js &nbsp;|&nbsp;
+**Systems:** PostgreSQL · MongoDB · Redis · Docker &nbsp;|&nbsp;
+**Web3:** Solana · Anchor · Rust
+
 </div>
 
+## Operating principles
+
+```ts
+const engineering = {
+  startWith: "the user and the real constraint",
+  designFor: ["clarity", "security", "failure", "scale"],
+  proveWith: ["working software", "tests", "documentation", "metrics"],
+  improveThrough: "small, deliberate iterations",
+  defaultAction: "ship",
+} as const;
+```
+
+## Live engineering signal
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XaidenLabs&theme=github_dark" alt="GitHub contribution profile" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=XaidenLabs&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=22d3ee&text_color=cbd5e1&rank_icon=github" alt="Alfred Gabriel's GitHub statistics" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=XaidenLabs&hide_border=true&background=0D1117&ring=A855F7&fire=22D3EE&currStreakLabel=A855F7&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub contribution streak" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=XaidenLabs&bg_color=0d1117&color=a855f7&line=22d3ee&point=f8fafc&area=true&hide_border=true" alt="GitHub activity graph" />
+</div>
+
+### Contribution stream
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XaidenLabs/XaidenLabs/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XaidenLabs/XaidenLabs/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/XaidenLabs/XaidenLabs/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<details>
+  <summary><b>More repository intelligence</b></summary>
+  <br />
+  <div align="center">
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XaidenLabs&theme=github_dark" alt="Repositories per language" />
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=XaidenLabs&theme=github_dark&utcOffset=1" alt="Productive development time" />
+  </div>
+</details>
+
+## Current direction
+
+- Deepening **Rust, Solana program security, and protocol design**.
+- Building **AI-assisted developer tools and agent-powered workflows**.
+- Creating **African-first products** with globally competitive engineering.
+- Open to **backend roles, contract builds, and serious product collaborations**.
+
 <div align="center">
 
-### Have an ambitious idea?
+## Let’s build something that matters
 
-I am open to backend engineering roles, freelance builds, and thoughtful product collaborations.
+If the problem is technically ambitious and useful in the real world, I want to hear about it.
 
-[**Explore my work**](https://xaidenlabs.com.ng) · [**Connect on LinkedIn**](https://linkedin.com/in/alfred-gabriel-5529a926a) · [**View my repositories**](https://github.com/XaidenLabs?tab=repositories)
+[![Start a conversation](https://img.shields.io/badge/START_A_CONVERSATION-9333EA?style=for-the-badge&logo=rocket&logoColor=white)](mailto:hello@xaidenlabs.com.ng)
 
 <br />
 
-![Profile views](https://komarev.com/ghpvc/?username=XaidenLabs&style=flat-square&color=9333ea&label=PROFILE+VIEWS)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:9333EA,100:111827&height=120&section=footer" width="100%" alt="Animated gradient footer" />
 
-<sub>Built with curiosity, discipline, and a bias for shipping.</sub>
+<sub><b>Alfred Gabriel</b> — engineering ideas into dependable products.</sub>
 
 </div>
