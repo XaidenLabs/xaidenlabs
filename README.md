@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">ALFRED GABRIEL</h1>
+<h1 align="center">DADIENG ALFRED GABRIEL</h1>
 
 <p align="center">
   <strong>Product-led software engineer building dependable systems from Abuja, Nigeria.</strong>
