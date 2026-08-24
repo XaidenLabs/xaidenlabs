@@ -246,10 +246,6 @@ const engineering = {
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=XaidenLabs&theme=github-dark-blue&hide_border=true&ring=22D3EE&fire=0F766E&currStreakLabel=22D3EE" alt="Alfred Gabriel's GitHub contribution streak" />
-</p>
-
-<p align="center">
   <a href="https://github.com/XaidenLabs">
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=XaidenLabs&bg_color=0d1117&color=94a3b8&line=22d3ee&point=f8fafc&area=true&area_color=0f766e&hide_border=true" alt="Alfred Gabriel's GitHub activity graph" />
   </a>
